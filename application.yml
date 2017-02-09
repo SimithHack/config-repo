@@ -1,0 +1,6 @@
+global: yes
+spring:
+  cloud:
+    server:
+      overrides:
+        global: 1111
