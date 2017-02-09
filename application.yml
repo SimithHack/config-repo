@@ -1,4 +1,4 @@
-global: yes
+global: yes-global
 spring:
   cloud:
     server:
